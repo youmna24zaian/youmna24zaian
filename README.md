@@ -2,17 +2,26 @@
 
 [🌐 View My Portfolio](https://youmna-ai-craft.lovable.app/)
 
-<!--
-**youmna24zaian/youmna24zaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Project
 
-Here are some ideas to get you started:
+### Qaddemly – AI Recruitment Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduation project developed at Tanta University as part of a multidisciplinary team.
+
+I was part of the **AI team**, contributing to the development of AI-powered recruitment features, including:
+
+- **Resume Keyword Optimization** – analyzing resumes against job descriptions and identifying missing or underrepresented keywords.
+- **Job Post Enhancement** – improving job postings using AI-assisted analysis and generation.
+- **Recommendation System** – contributing to the development of the candidate–job recommendation and matching system.
+
+### 🛠️ Technologies & Techniques
+
+- Python
+- NLP
+- TF-IDF
+- KNN
+- Sentence Transformers
+- FastAPI
+- Groq API / LLMs
+
+🔗 [View Qaddemly AI Features](https://github.com/Qaddemly/AI-Features)
