@@ -53,5 +53,5 @@ A practical collection of scraping examples using Requests, BeautifulSoup, Panda
 
 ## Contact & Links
 
-- [GitHub](https://github.com/youmna24zaian)
-- [Portfolio](https://youmna24zaian.github.io/youmna-ai-portfolio/)
+- [Portfolio](https://youmna-ai-craft.lovable.app)
+- [LinkedIn](https://www.linkedin.com/in/youmna-mohammed24)
