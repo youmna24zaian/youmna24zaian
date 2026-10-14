@@ -4,7 +4,6 @@ I'm an entry-level **AI and Machine Learning professional** with interests in **
 
 ## Portfolio
 
-- [View My Portfolio](https://youmna24zaian.github.io/youmna-ai-portfolio/)
 - [View My Current Portfolio Site](https://youmna-ai-craft.lovable.app/)
 
 ## Technical Skills
