@@ -2,10 +2,6 @@
 
 I'm an entry-level **AI and Machine Learning professional** with interests in **Natural Language Processing, recommendation systems, data science, and data analysis**. I enjoy building practical Python-based solutions, exploring data, and turning technical work into clear, useful outcomes.
 
-## Portfolio
-
-- [View My Current Portfolio Site](https://youmna-ai-craft.lovable.app/)
-
 ## Technical Skills
 
 ### Programming and Data
@@ -41,24 +37,21 @@ I'm an entry-level **AI and Machine Learning professional** with interests in **
 
 ### [Qaddemly — AI Recruitment Platform](https://github.com/Qaddemly/AI-Features)
 
-AI recruitment features for resume keyword optimization, job-post enhancement, and candidate–job recommendation and matching. This project was developed as part of a multidisciplinary graduation project at Tanta University.
-
-> The Qaddemly repository is maintained outside the `youmna24zaian` GitHub account; the link above is the existing project repository referenced in my previous profile README.
+AI recruitment features for resume keyword optimization, job-post enhancement, and candidate–job recommendation and matching.
 
 ### [E-commerce Sales Analysis](https://github.com/youmna24zaian/ecommerce-sales-analysis)
 
-A Python and Pandas analysis of e-commerce transactions, including data cleaning, KPI calculation, revenue analysis, sales-channel comparisons, product performance, returns, and visual reporting.
-
-### [Web Scraping with Python](https://github.com/youmna24zaian/web-scraping-python)
-
-A practical collection of Python scraping examples using Requests, BeautifulSoup, Pandas, lxml, and OpenPyXL to collect and structure data from web pages.
+A Python and Pandas analysis covering transaction cleaning, KPI calculation, revenue analysis, product performance, sales channels, returns, and visual reporting.
 
 ### [Employee Attrition Analysis](https://github.com/youmna24zaian/employee-attrition-analysis)
 
-A de-identified HR data-cleaning and exploratory-analysis project using Pandas and visualization. It examines employee attrition across departments, job roles, overtime, satisfaction, age bands, income bands, experience, and tenure.
+A de-identified HR data-cleaning and exploratory-analysis project using Pandas and visualization to examine attrition across departments, roles, overtime, satisfaction, and career-stage bands.
 
-## Contact and Links
+### [Web Scraping with Python](https://github.com/youmna24zaian/web-scraping-python)
+
+A practical collection of scraping examples using Requests, BeautifulSoup, Pandas, lxml, and OpenPyXL to collect and structure web data.
+
+## Contact & Links
 
 - [GitHub](https://github.com/youmna24zaian)
 - [Portfolio](https://youmna24zaian.github.io/youmna-ai-portfolio/)
-- [Current Portfolio Site](https://youmna-ai-craft.lovable.app/)
